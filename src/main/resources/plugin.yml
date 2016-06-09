@@ -1,0 +1,8 @@
+name: ClassLoaderDebug
+main: org.inventivetalent.classloaderdebug.ClassLoaderDebug
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  classloaderdebug:
+    aliases: [cld, cldb]
